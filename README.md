@@ -300,3 +300,9 @@ matrix-calculator/
 ## Лицензия
 
 Учебный проект. Свободное использование в образовательных целях.
+
+## Готовая сборка
+
+Standalone-версия (.exe) доступна по ссылке:
+https://drive.google.com/uc?export=download&id=1Ny-qPM7XO4yys3qhBV-sZVW5wPbe4hUB
+https://disk.yandex.ru/d/6zMMz-W2TM1KAQ
